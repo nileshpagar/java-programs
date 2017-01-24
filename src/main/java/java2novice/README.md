@@ -1,4 +1,4 @@
-__FROM http://www.java2novice.com/java-interview-programs/__
+__FROM [Java2Novice](http://www.java2novice.com/java-interview-programs/)__
 
 * How to reverse Singly Linked List?
 * Find out duplicate number between 1 to N numbers.
