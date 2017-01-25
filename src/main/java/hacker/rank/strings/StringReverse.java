@@ -3,7 +3,7 @@ package hacker.rank.strings;
 import java.util.Scanner;
 
 /**
- * Created by I558472 on 1/23/2017.
+ * Created by NileshPagar at gmail dot com on 1/23/2017.
  */
 public class StringReverse {
 

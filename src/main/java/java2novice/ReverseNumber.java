@@ -5,7 +5,7 @@ import java.util.Scanner;
 import static java.lang.System.in;
 
 /**
- * Created by nileshpagar on 1/25/17.
+ * Created by NileshPagar at gmail dot com on 1/25/17.
  */
 public class ReverseNumber {
 
