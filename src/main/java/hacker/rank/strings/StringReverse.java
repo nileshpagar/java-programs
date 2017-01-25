@@ -1,4 +1,4 @@
-package com.nilesh.hacker.rank.strings;
+package hacker.rank.strings;
 
 import java.util.Scanner;
 
