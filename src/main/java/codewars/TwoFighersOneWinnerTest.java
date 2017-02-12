@@ -1,6 +1,8 @@
-import static org.junit.Assert.*;
+package codewars;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 /**
  * Created by Nilesh Pagar on 2/3/2017.

@@ -1,6 +1,7 @@
+package codewars;
 
-import static java.math.BigDecimal.valueOf;
 import static java.math.RoundingMode.CEILING;
+import static java.math.BigDecimal.valueOf;
 
 public class TwoFighersOneWinner {
 
